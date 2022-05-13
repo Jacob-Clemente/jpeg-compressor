@@ -1,0 +1,5 @@
+project: jacob-clemente/jpeg-compressor
+target: jpge
+
+cmds:
+  - cmd: /jpge @@ out.jpg 90
